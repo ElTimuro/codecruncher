@@ -1,0 +1,6 @@
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\bin\Debug\CodeCruncher.exe.config
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\bin\Debug\CodeCruncher.exe
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\bin\Debug\CodeCruncher.pdb
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\obj\Debug\CodeCruncher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\obj\Debug\CodeCruncher.exe
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\obj\Debug\CodeCruncher.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\bin\Release\CodeCruncher.exe.config
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\bin\Release\CodeCruncher.exe
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\bin\Release\CodeCruncher.pdb
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\obj\Release\CodeCruncher.exe
+C:\Users\Administrator.DEV2013\AppData\Local\Temporary Projects\CodeCruncher\obj\Release\CodeCruncher.pdb
+C:\Users\Administrator.DEV2013\Documents\Visual Studio 2013\Projects\CodeCruncher\CodeCruncher\bin\Release\CodeCruncher.exe.config
+C:\Users\Administrator.DEV2013\Documents\Visual Studio 2013\Projects\CodeCruncher\CodeCruncher\obj\Release\CodeCruncher.exe
+C:\Users\Administrator.DEV2013\Documents\Visual Studio 2013\Projects\CodeCruncher\CodeCruncher\obj\Release\CodeCruncher.pdb
